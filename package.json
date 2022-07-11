@@ -1,0 +1,16 @@
+{
+  "name": "pig-game",
+  "version": "1.0.0",
+  "description": "Throw Dice",
+  "main": "script.js",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Pitigoiu",
+  "license": "ISC"
+}
