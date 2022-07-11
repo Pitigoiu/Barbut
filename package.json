@@ -3,11 +3,16 @@
   "version": "1.0.0",
   "description": "Throw Dice",
   "main": "script.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "parcel": "2.6.2"
+  },
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html"
   },
   "author": "Pitigoiu",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.6.2"
+  }
 }
